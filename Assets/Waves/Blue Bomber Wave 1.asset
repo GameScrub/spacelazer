@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c894c52e90ff8f45ba6d4bad11ff17e, type: 3}
+  m_Name: Blue Bomber Wave 1
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 7211067019437095982, guid: 98ab325e3170c494cbd88b0727322070, type: 3}
+  path: {fileID: 2588085603382871840, guid: 999343c07392c9f43a1870a456376d73, type: 3}
+  timeBetweenSpawn: 0.4
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 3
+  moveSpeed: 7

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c894c52e90ff8f45ba6d4bad11ff17e, type: 3}
+  m_Name: Purple Arrow Wave 2
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 7211067019437095982, guid: 1d8b21e3cedc8414aa10576173315700, type: 3}
+  path: {fileID: 2588085603382871840, guid: baca7d3fa775e4f4f96d3dd3c2e1c06e, type: 3}
+  timeBetweenSpawn: 1
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 3
+  moveSpeed: 5
